@@ -1,0 +1,31 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+}
+
+.para {
+  color: #979797;
+  font-size: 1.0em;
+  font-family: Inter, Arial, Helvetica, sans-serif;
+}
+
+.article {
+  font-family: Lato, Helvetica, Arial, sans-serif;
+  font-weight: 700;
+  line-height: 1.5;
+  clear: both;
+  color: #404040;
+  font-size: 1.46em;
+  word-break: break-word;
+  margin-bottom: 0.875em;
+}
+
+.names{
+  color: #404040;
+  font-family: Inter,Arial,Helvetica,sans-serif;
+  font-size: 16px;
+  font-size: 1rem;
+}
