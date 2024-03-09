@@ -6,6 +6,10 @@ import { IoMdSearch } from "react-icons/io";
 const page = () => {
   return (
     <>
+      <head>
+        <link rel="icon" href="https://stradresearch.org/wp-content/uploads/2022/12/Logo-1.jpg" sizes="any" />
+      </head>
+
       <div className='bg-gray-200 h-full'>
         <div className='flex items-center gap-2 ml-16 pt-2'>
           <img src="https://stradresearch.org/wp-content/uploads/2022/12/Logo-1.jpg" alt="img" className="h-20" />
